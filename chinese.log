@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.2.1)  1 FEB 2021 20:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.12) (preloaded format=xelatex 2021.2.1)  2 FEB 2021 11:45
 entering extended mode
 **"c:/360极速浏览器下载/CV_Chinese (Copy)/chinese.tex"
 ("c:/360极速浏览器下载/CV_Chinese (Copy)/chinese.tex"
@@ -1045,17 +1045,17 @@ LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
 20.
 ) (resume/experience_c.tex)
-(resume/projects_c.tex) (resume/skill_c.tex
+(resume/projects_c.tex [1
+
+]) (resume/skill_c.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 14.
 
-Overfull \hbox (4.1779pt too wide) in alignment at lines 10--34
+Overfull \hbox (4.1779pt too wide) in alignment at lines 10--38
 [] [] 
  []
 
-[1
-
-]) (resume/honors_c.tex) [2] (chinese.aux)
+) (resume/honors_c.tex) [2] (chinese.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1065,7 +1065,7 @@ Package rerunfilecheck Info: File `chinese.out' has not changed.
 Here is how much of TeX's memory you used:
  34565 strings out of 412022
  690359 string characters out of 2849384
- 1192991 words of memory out of 3000000
+ 1190994 words of memory out of 3000000
  53707 multiletter control sequences out of 15000+200000
  406162 words of font info for 108 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
